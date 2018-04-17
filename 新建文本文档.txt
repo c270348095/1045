@@ -1,0 +1,39 @@
+626854403
+2850975572
+510604354
+chen520Jie
+
+192.168.0.47:8081/nexus/content/groups/public
+
+
+pms:chen520jie    chenjimin
+
+<dependency>
+			<groupId>org.springframewosrk.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<scope>test</scope>
+		</dependency>
+		
+		
+
+00000-71069-d41d8-00000
+陈继民|f5379560ad51b474f0369664d651b57289329063ad53b471f0359661d656b073f5339066d750b175f0369367a752ba728146e011a253c374f7369367f453e670d3
+本机 centos6.7 usr jamin     jamin.chen    psd chenjie
+One should do at least two things out of impulse in his life: to forget yourself in a relationship and to go on a trip without a plan.
+
+
+   sudo sed -i "s|EXTRA_ARGS='|EXTRA_ARGS='--registry-mirror=加速地址 |g" /var/lib/boot2docker/profile
+   git clone http://git.choerodon.com.cn/hapcloud/hapcloud-backend.git    用户名工号，密码handhand
+   
+        
+ docker run --name=mysql -it -p 3306:3306 -e MYSQL_ROOT_PASSWORD=root -d rabbitmq
+ 
+ docker run -d --hostname localhost --name rabbit-management --restart=always -p 15672:15672 -p 5672:5672 -d rabbitmq:3.6-management-alpine
+ 
+ docker run -d --name=redis -v /home/tym/docker/redis/data/:/data docker.io/redis redis-server 
+ 
+
+docker run -it -p 3306:3306 --name mysql1 -v ~/docker/mysql/conf/my.cnf:/etc/mysql/my.cnf -v ~/docker/mysql/logs:/logs -v ~/docker/mysql/data:/mysql_data -e MYSQL_ROOT_PASSWORD=root -d docker.io/mysql  /bin/bash
+docker push   registry-internal.cn-hangzhou.aliyuncs.com/hanjie/cjimagedemo:latest
+docker tag [ImageId] registry.cn-hangzhou.aliyuncs.com/hanjie/cjimagedemo:
+docker tag fda31f91ffbf registry.cn-hangzhou.aliyuncs.com/hanjie/cjimagedemo:101045
